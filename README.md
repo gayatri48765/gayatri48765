@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gayatri R Mangire</h1>
-<h3 align="center">Hello, I'm Gayatri Mangire, a passionate Computer Science graduate with a strong background in web development and software engineering. Currently pursuing my Master's in Computer Science at The University of Texas at Dallas, I have experience in building dynamic web applications and e-commerce solutions. My skill set includes Java, Python, React, and more. I'm enthusiastic about technology and thrive on creating innovative solutions. Let's connect and explore opportunities to collaborate or share insights in the world of software development!</h3>
+
+  Hello, I'm Gayatri Mangire, a passionate Computer Science graduate with a strong background in web development and software engineering. Currently pursuing my Master's in Computer Science at The University of Texas at Dallas, I have experience in building dynamic web applications and e-commerce solutions. My skill set includes Java, Python, React, and more. I'm enthusiastic about technology and thrive on creating innovative solutions. Let's connect and explore opportunities to collaborate or share insights in the world of software development!
 
 - 👯 I’m looking to collaborate on **Fulstack**
 
